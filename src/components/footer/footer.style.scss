@@ -1,0 +1,30 @@
+.footer {
+  .logos {
+    text-align: center;
+  }
+
+  .logo-container {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .media {
+    display: flex;
+    gap: 20px;
+
+    i {
+      font-size: 1.5rem;
+    }
+  }
+
+  .footer-info {
+    list-style-type: none;
+  }
+
+  .footer-info li:first-child {
+    font-weight: bold;
+  }
+}
