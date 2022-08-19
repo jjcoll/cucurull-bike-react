@@ -16,7 +16,7 @@ export const Contact = () => {
         <div className="row">
           <h2>Contactanos</h2>
         </div>
-        <form action="" className="row g-3">
+        <form action="" className="row g-3" data-netlify="true">
           <div className="col-md-6">
             <label className="form-label" htmlFor="firstName">
               Nombre
