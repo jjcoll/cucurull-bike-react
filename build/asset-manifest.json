@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3e5ae989.css",
+    "main.js": "/static/js/main.85837e3c.js",
+    "static/media/boda3-resize.jpg": "/static/media/boda3-resize.57ed21fa6c807eebdff6.jpg",
+    "static/media/hero-square.webp": "/static/media/hero-square.823e29363a9ea024bea2.webp",
+    "static/media/boda1.jpg": "/static/media/boda1.e815ab71fbdfe2c789a1.jpg",
+    "static/media/logo-rueda-dentro2.png": "/static/media/logo-rueda-dentro2.8250898e2ffd81b3c4f4.png",
+    "static/media/helado6.jpg": "/static/media/helado6.de1ab553763e78f18f31.jpg",
+    "static/media/description.jpg": "/static/media/description.91adb80431f41948ecc6.jpg",
+    "static/media/logo-rueda-borde.png": "/static/media/logo-rueda-borde.eb065511d0241734db28.png",
+    "static/media/helado5.jpg": "/static/media/helado5.4bc658a562d93d0ce076.jpg",
+    "static/media/helado3.jpg": "/static/media/helado3.63907c2768d95d79f149.jpg",
+    "static/media/helado2.jpg": "/static/media/helado2.f002b425f70a39557d61.jpg",
+    "static/media/helado4.jpg": "/static/media/helado4.ef71eb3587545010f620.jpg",
+    "static/media/helado1.jpg": "/static/media/helado1.877d8a0670df2414653a.jpg",
+    "static/media/Aeonik-Bold.woff": "/static/media/Aeonik-Bold.4f9c8195457dc0d7bfe9.woff",
+    "static/media/Aeonik-Medium.woff": "/static/media/Aeonik-Medium.3b09f560a7da8d6f25b5.woff",
+    "static/media/Aeonik-Regular.woff": "/static/media/Aeonik-Regular.4957ae92e5585e501e94.woff",
+    "index.html": "/index.html",
+    "main.3e5ae989.css.map": "/static/css/main.3e5ae989.css.map",
+    "main.85837e3c.js.map": "/static/js/main.85837e3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e5ae989.css",
+    "static/js/main.85837e3c.js"
+  ]
+}
